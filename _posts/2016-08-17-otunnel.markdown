@@ -13,6 +13,9 @@ categories: jekyll update
 
 **注意** otunnel 程序可以分饰 server 和 client 两种角色（运行参数不同）
 
+原理图:
+
+![otunnel原理图](/img/otunnel-principle.jpg)
 
 ## 快速上手
 
