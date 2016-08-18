@@ -4,6 +4,9 @@ title:  "otunnel"
 date:   2016-08-17 23:53:51 +0000
 categories: jekyll update
 ---
+
+![otunnel原理图](/img/otunnel-principle.jpg)
+
 # otunnel 用法
 
 前提：
@@ -13,9 +16,6 @@ categories: jekyll update
 
 **注意** otunnel 程序可以分饰 server 和 client 两种角色（运行参数不同）
 
-原理图:
-
-![otunnel原理图](/img/otunnel-principle.jpg)
 
 ## 快速上手
 
@@ -77,3 +77,7 @@ categories: jekyll update
 **注意**
 
 1. `本地地址` 或 `远程地址` 如果为空，表示所有网口（多用在需要启动 listen server 的时候）
+
+## 下载
+
+[http://dl.ooclab.com/otunnel/](http://dl.ooclab.com/otunnel/)
